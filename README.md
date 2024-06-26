@@ -6,7 +6,6 @@ Este projeto foi retirado do Desafio 1 do curso 'Machine Learning com Python' da
 ## Estrutura do Repositório
 - `data/`: Contém os dados do projeto.
 - `notebooks/`: Jupyter Notebooks para análise e experimentação.
-- `scripts/`: Scripts Python para preprocessamento, treinamento e avaliação.
 - `models/`: Modelos treinados.
 - `results/`: Resultados das avaliações e visualizações.
 - `requirements.txt`: Lista de dependências do projeto.
