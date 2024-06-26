@@ -22,5 +22,5 @@ A configuração utilizada para o modelo XGBoost foi:
 - learning_rate=0.05
 - n_estimators=250
 - objective='binary:logistic'
-- random_state=3
+- random_state=3  
 Essa combinação de hiperparâmetros permitiu ao XGBoost alcançar os melhores resultados entre os modelos avaliados.
