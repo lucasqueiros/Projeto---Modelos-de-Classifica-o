@@ -1,0 +1,66 @@
+asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
+Bottleneck @ file:///croot/bottleneck_1707864210935/work
+catboost @ https://pypi.org/packages/cp311/c/catboost/catboost-1.2.3-cp311-cp311-manylinux2014_x86_64.whl#sha256=f8ad8cacf688f75a78324655a69a942309345960af2075b4618a4b723c95ba81
+comm @ file:///croot/comm_1709322850197/work
+contourpy @ file:///croot/contourpy_1700583582875/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+debugpy @ file:///croot/debugpy_1690905042057/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
+fonttools==4.25.0
+graphviz @ file:///work/ci_py311/python-graphviz_1676838665027/work
+ipykernel @ file:///croot/ipykernel_1705933831282/work
+ipython @ file:///croot/ipython_1718287989724/work
+ipywidgets @ file:///croot/ipywidgets_1709574692113/work
+jedi @ file:///work/ci_py311_2/jedi_1679336495545/work
+joblib==1.3.2
+jupyter_client @ file:///croot/jupyter_client_1699455897726/work
+jupyter_core @ file:///croot/jupyter_core_1698937308754/work
+jupyterlab-widgets @ file:///croot/jupyterlab_widgets_1709322880313/work
+kiwisolver @ file:///work/ci_py311/kiwisolver_1676827230232/work
+lightgbm @ file:///croot/lightgbm_1714113229542/work
+matplotlib==3.7.1
+matplotlib-inline @ file:///work/ci_py311/matplotlib-inline_1676823841154/work
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+munkres==1.1.4
+nest-asyncio @ file:///croot/nest-asyncio_1708532673751/work
+numexpr @ file:///croot/numexpr_1696515281613/work
+numpy @ file:///croot/numpy_and_numpy_base_1708638617955/work/dist/numpy-1.26.4-cp311-cp311-linux_x86_64.whl#sha256=5f96f274d410a1682519282ae769c877d32fdbf171aa8badec7bf5e1d3a1748a
+packaging @ file:///croot/packaging_1710807400464/work
+pandas==1.5.3
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+patsy==0.5.3
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pillow @ file:///croot/pillow_1707233021655/work
+platformdirs @ file:///croot/platformdirs_1692205439124/work
+plotly @ file:///croot/plotly_1718136942809/work
+ply==3.11
+prompt-toolkit @ file:///croot/prompt-toolkit_1704404351921/work
+psutil @ file:///work/ci_py311_2/psutil_1679337388738/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
+Pygments @ file:///croot/pygments_1684279966437/work
+pyparsing @ file:///work/ci_py311/pyparsing_1677811559502/work
+PyQt5==5.15.10
+PyQt5-sip @ file:///croot/pyqt-split_1698769088074/work/pyqt_sip
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz @ file:///croot/pytz_1695131579487/work
+pyzmq @ file:///croot/pyzmq_1705605076900/work
+scikit-learn==1.2.1
+scipy @ file:///croot/scipy_1710947333060/work/dist/scipy-1.12.0-cp311-cp311-linux_x86_64.whl#sha256=7b785ae9c9d29498ceb02b3fe6408543b84694d22ee384fa27766e890cfbbd2f
+seaborn==0.12.2
+sip @ file:///croot/sip_1698675935381/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
+statsmodels @ file:///croot/statsmodels_1689937266057/work
+tenacity @ file:///croot/tenacity_1682972284834/work
+threadpoolctl==3.4.0
+tornado @ file:///croot/tornado_1696936946304/work
+traitlets @ file:///croot/traitlets_1718227057033/work
+typing_extensions @ file:///croot/typing_extensions_1715268824938/work
+tzdata @ file:///croot/python-tzdata_1690578112552/work
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+widgetsnbextension @ file:///croot/widgetsnbextension_1709322880396/work
+xgboost @ file:///croot/xgboost-split_1713972711803/work
